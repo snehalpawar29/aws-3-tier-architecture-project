@@ -35,7 +35,7 @@ The goal was to understand how different AWS services work together to build a s
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="Documentation/3-tier-architecture.png" alt="AWS 3-Tier Architecture" width="900"/>
+  <img src="Documentation/Architecture_Diagram_page-0001 (1).jpg" alt="AWS 3-Tier Architecture" width="900"/>
 </p>
 
 ### 🔄 Request Flow
