@@ -294,7 +294,7 @@ Application logging was implemented to make backend activity easier to observe a
 ## 📸 CloudWatch Monitoring
 
 <p align="center">
-  <img src="Documentation/cloudwatch-alarm.png" alt="CloudWatch Alarm" width="850"/>
+  <img src="Documentation/Screenshots/45_CloudWatch_Logs.png" alt="CloudWatch Alarm" width="850"/>
 </p>
 
 ---
